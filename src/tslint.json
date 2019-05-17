@@ -1,0 +1,9 @@
+{
+    "rulesDirectory": [
+        "../dist/"
+    ],
+    "rules": {
+        "no-platform-check": [true],
+        "no-typeof-browser-global": [true]
+    }
+}
